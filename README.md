@@ -1,2 +1,3 @@
 # AutoBootKali
-Auto Booting to Kali as a root user for the VNC Server
+
+Just run install.sh after giving execute permission to file. 
